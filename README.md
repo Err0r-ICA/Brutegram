@@ -1,5 +1,5 @@
 # Brutegram
-####Instagram Multi-Bruteforce Platfrom
+#### Instagram Multi-Bruteforce Platfrom
 
 ## Commands
 ```
