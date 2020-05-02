@@ -3,11 +3,11 @@
 
 ## Commands
 ```
-git clone https://github.com/Err0r-ICA/Brutegram <br>
+git clone https://github.com/Err0r-ICA/Brutegram 
 
-cd Brutegram <br>
+cd Brutegram
 
-bash Brutegram <br>
+bash Brutegram
 ```
 ## Screenshot 
 
