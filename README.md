@@ -1,4 +1,4 @@
-# Instagram Multi-bruteforce 
+# Instagram<br>Multi-ruteforce 
 
 ![logo](https://i.postimg.cc/TRsZFV8V/20200606-021855.jpg) 
 
