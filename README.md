@@ -1,4 +1,4 @@
-# Instagram<br>Multi-Bruteforce 
+# 💥 Brutegram 💥<br>Instagram Multi-Bruteforce 
 
 ![logo](https://i.postimg.cc/TRsZFV8V/20200606-021855.jpg) 
 
@@ -8,7 +8,7 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-## Commands
+## 💿 Installation 💿
 ```
 apt update && apt upgrade
 
@@ -23,12 +23,12 @@ cd Brutegram
 bash Brutegram
 ```
 
-## Screenshot 
+## 📸 Screenshot 📸
 
 ![Screenshot](https://i.postimg.cc/fwLVDC81/Screenshot-20200502-193420-Termux.jpg) 
 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
