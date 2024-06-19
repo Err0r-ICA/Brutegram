@@ -1,4 +1,4 @@
-# 💥 Brutegram 💥<br>Instagram Multi-Bruteforce (⚠️ currently under updating ⚠️) 
+# 💥 Brutegram 💥<br>Instagram Multi-Bruteforce (⚠️ currently NOT working ⚠️) 
 
 ![logo](https://i.postimg.cc/TRsZFV8V/20200606-021855.jpg) 
 
