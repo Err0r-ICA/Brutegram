@@ -1,6 +1,6 @@
 # 💥 Brutegram 💥<br>Instagram Multi-Bruteforce (⚠️ currently NOT working ⚠️) 
 
-![logo](https://i.postimg.cc/TRsZFV8V/20200606-021855.jpg) 
+![logo](https://i.postimg.cc/T2V0wqTy/OIG2.jpg) 
 
 <p align="center">
   <img alt="Err0r-ICA' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&hide_border=true" />
